@@ -1,5 +1,7 @@
 This is a Telegram Bot written in Python for mirroring files on the Internet to your Google Drive or Telegram.
 
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/6fyuR7)
+
 
 ## Deploy on Heroku
 
